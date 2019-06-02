@@ -8,3 +8,4 @@ const goodbyeWorld = function() {
   return "Goodbye world";
 };
 console.log(goodbyeWorld());
+console.log("Hello again");
